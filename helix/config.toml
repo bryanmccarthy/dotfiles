@@ -1,0 +1,24 @@
+# theme = "serika-dark"
+theme = "autumn"
+
+[editor]
+mouse=true
+bufferline = "multiple"
+line-number = "relative"
+# rulers = [80]
+
+[editor.cursor-shape]
+insert = "bar"
+normal = "block"
+select = "block"
+
+[editor.file-picker]
+hidden = false
+
+[editor.soft-wrap]
+enable = true
+
+[keys.insert]
+# j = { k = "normal_mode" } 
+
+
